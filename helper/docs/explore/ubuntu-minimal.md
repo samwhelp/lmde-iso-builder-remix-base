@@ -51,3 +51,11 @@ Origin: Ubuntu
 Bugs: https://bugs.launchpad.net/ubuntu/+filebug
 Task: minimal
 ```
+
+
+
+
+## Package
+
+* iputils-ping
+* iproute2
